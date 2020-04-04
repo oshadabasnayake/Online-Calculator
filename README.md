@@ -7,3 +7,4 @@ Easily recognizable User Interface and Gradient colors make it awesome.Usable fo
 ## What you can learn
 1.html
 2.css
+3.javascript
