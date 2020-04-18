@@ -17,5 +17,6 @@ Easily recognizable User Interface and Gradient colors make it awesome.Usable fo
 
 5.sublime
 6.vs code
+7.atom
  
  
