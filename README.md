@@ -16,6 +16,7 @@ Easily recognizable User Interface and Gradient colors make it awesome.Usable fo
 2.semantic
 3.magneto
 4.php cake
+6.laravel
 
 
 
