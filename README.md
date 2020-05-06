@@ -5,7 +5,9 @@ The repository about basic calculator which can do basic calculations online usi
 Basic calculator with simple calculations with superfast and efficient.
 Easily recognizable User Interface and Gradient colors make it awesome.Usable for any age group without special knowledge.
 
-## What you can learn
+# What you can learn
+
+## Languages
 1.html
 2.css
 3.javascript
