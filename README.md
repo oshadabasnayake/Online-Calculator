@@ -11,6 +11,7 @@ Easily recognizable User Interface and Gradient colors make it awesome.Usable fo
 
 # What you can learn
 1.programming
+2.Design
 ## Languages
 1.html
 2.css
