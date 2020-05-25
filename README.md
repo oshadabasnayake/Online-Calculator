@@ -7,6 +7,7 @@ Easily recognizable User Interface and Gradient colors make it awesome.Usable fo
 ## Business Integrations
 
 ## API
+2 kinds
 ### In future i will add this with several languages
 
 # What you can learn
