@@ -11,7 +11,8 @@ Easily recognizable User Interface and Gradient colors make it awesome.Usable fo
 2 kinds
 1.REST
 2.GraphQL
-### In future i will add this with several languages
+
+### In future , will add this with several languages
 
 # What you can learn
 1.programming
