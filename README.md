@@ -7,14 +7,14 @@ Basic calculator with simple calculations with superfast and efficient.
 Easily recognizable User Interface and Gradient colors make it awesome.Usable for any age group without special knowledge.
 
 ## Automation
-## Blog
+## Blog 
 ## Business Integrations
 
 ## API
 2 kinds
 1.REST
 2.GraphQL
-
+3.Soups
 ### In future , will add this with several languages
 
 # What you can learn
