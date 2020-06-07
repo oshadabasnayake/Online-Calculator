@@ -7,6 +7,7 @@ Basic calculator with simple calculations with superfast and efficient.
 Easily recognizable User Interface and Gradient colors make it awesome.Usable for any age group without special knowledge.
 
 ## Automation
+as integration
 ## Blog 
 ## Business Integrations
 
