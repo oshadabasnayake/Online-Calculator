@@ -11,6 +11,7 @@ Easily recognizable User Interface and Gradient colors make it awesome.Usable fo
 
 ## Automation
 ## integration
+1. Plugin
 ## Blog 
 ## Business Integrations
 
