@@ -12,6 +12,7 @@ Easily recognizable User Interface and Gradient colors make it awesome.Usable fo
 ## Automation
 ## integration
 1. Plugin
+2. Google Web Store
 ## Blog 
 ## Business Integrations
 
