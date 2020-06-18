@@ -1,8 +1,8 @@
 # Online-Calculator Test - [ 1.0 ]
 ## release - [0.0.0.1]
-## expand
+## expand 
 
-## AI
+## AI / ML
 ## Management
 
 The repository about basic calculator which can do basic calculations online using web technologies.Used html css javascript only. 
