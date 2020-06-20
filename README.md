@@ -13,6 +13,7 @@ Easily recognizable User Interface and Gradient colors make it awesome.Usable fo
 ## integration
 1. Plugin
 2. Google Web Store
+3. Firebase
 
 1. Play Store
 ## Blog 
