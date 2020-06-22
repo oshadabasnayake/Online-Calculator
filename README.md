@@ -2,7 +2,7 @@
 ## release - [0.0.0.1]
 ## expand 
 
-## AI / ML
+## AI / ML / IOT
 ## Management
 
 The repository about basic calculator which can do basic calculations online using web technologies.Used html css javascript only. 
