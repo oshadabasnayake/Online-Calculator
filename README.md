@@ -28,11 +28,13 @@ Easily recognizable User Interface and Gradient colors make it awesome.Usable fo
 1.REST
 2.GraphQL
 3.Soups
+
 ### In future , will add this with several languages
 
 # What you can learn
 1.programming
 2.Design
+3. Platforms
 ## Languages
 1.html
 2.css
