@@ -1,6 +1,6 @@
 # Online-Calculator Test - [ V - 1.0 ]
 ## release - [0.0.0.1]
-## expand 
+ 
 
 ## AI / ML / IOT / Data Science
 ## Management
