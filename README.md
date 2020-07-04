@@ -30,7 +30,7 @@ Easily recognizable User Interface and Gradient colors make it awesome.Usable fo
 2.GraphQL
 3.Soups
 
-### In future , will add this with several languages
+### In future , will add this with several languages/platforms
 
 # What you can learn
 1.programming
