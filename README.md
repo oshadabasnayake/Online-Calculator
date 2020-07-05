@@ -3,8 +3,10 @@
  
 
 ## AI / ML / IOT / Data Science
-## Management 
+
 ## Industry
+
+1. Management
 
 The repository about basic calculator which can do basic calculations online using web technologies.Used html css javascript only. 
 Basic calculator with simple calculations with superfast and efficient.
