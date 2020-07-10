@@ -5,6 +5,7 @@
 ## AI / ML / IOT / Data Science
 
 ## Industry
+## Social Media
 
 1. Management
 
