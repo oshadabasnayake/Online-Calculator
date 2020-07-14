@@ -15,7 +15,8 @@ Easily recognizable User Interface and Gradient colors make it awesome.Usable fo
 
 ## Automation
 ## integration
-1. Plugin
+
+1. Plugin -Wordpress
 2. Google Web Store
 3. Firebase
 4. Mongo DB
