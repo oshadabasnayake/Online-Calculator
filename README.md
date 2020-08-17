@@ -1,7 +1,7 @@
 # Online-Calculator Test - V - 1.0 
 
 
-## AI / ML / IOT / Data Science ? Framework
+## AI / ML / IOT / Data Science / Framework
 
 ## Industry
 ### Social Media
