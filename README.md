@@ -4,7 +4,7 @@
 ## AI / ML / IOT / Data Science / Framework
 
 ## Industry
-### Social Media
+
 
 1. Management
 
