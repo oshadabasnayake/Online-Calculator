@@ -3,7 +3,7 @@
 
 ## AI / ML / IOT / Data Science / Framework
 
-## Industry
+  
 
 
 1. Management
