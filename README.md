@@ -3,9 +3,6 @@
 
 ## AI / ML / IOT / Data Science / Framework
 
-  
-
-
 1. Management
 
 The repository about basic calculator which can do basic calculations online using web technologies.Used html css javascript only. 
@@ -34,8 +31,6 @@ Easily recognizable User Interface and Gradient colors make it awesome.Usable fo
 1.REST
 2.GraphQL
 3.Soups
-
-### In future , will add this with several languages/platforms
 
 # What you can learn
 1.programming
