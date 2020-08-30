@@ -20,9 +20,7 @@ Easily recognizable User Interface and Gradient colors make it awesome.Usable fo
 1. Play Store
 2. App Store
 
-## Blog 
-1.Blog
-2.Tech Blog
+
 ## Business Integrations
 
 ## API
