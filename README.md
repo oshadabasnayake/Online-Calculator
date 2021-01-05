@@ -43,6 +43,8 @@ Download
 ## Front end
 1. boostrap
 2. React
+3, Angular
+
 ## Back end
 
 ## Frameworks
