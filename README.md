@@ -21,6 +21,7 @@ Download
 
 1. Play Store
 2. App Store
+3. Windows
 
 
 ## Business Integrations
