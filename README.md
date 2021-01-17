@@ -41,7 +41,7 @@ Download
 2.css
 3.javascript
 4.php
-## Front end
+## Frontend
 1. boostrap
 2. React
 3, Angular
