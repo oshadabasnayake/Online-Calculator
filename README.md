@@ -1,5 +1,7 @@
 # Online Web Calculator - V-1.0 
 
+[Python Calculator CLI](https://github.com/oshadabasnayake/Python-Calculator "Python Calculator CLI")
+
 
 ## AI / ML / IOT / Data Science / Framework
 
